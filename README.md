@@ -34,7 +34,7 @@ Follow these steps to get the project up and running on your local machine:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/evgenskaspl/denali.git
+   git clone https://github.com/denislapata/denali.git
    ```
 
 2. **Install Dependencies:**

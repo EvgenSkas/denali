@@ -35,6 +35,15 @@
       line-height: pxToRem(24px);
     }
   }
+  .icon-license {
+    border-top: 1px solid #ccc;
+    padding-top: 20px;
+    color: #acafbf;
+    a {
+      text-decoration: none;
+      color: var(--yellow);
+    }
+  }
 }
 
 @media screen and (max-width: 1600px) {
